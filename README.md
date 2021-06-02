@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there. I'm ModyQyW.
 
-A front-end engineer now. Learning to be 10x engineer + full-stack engineer + testing engineer + project manager + product manager + client manager.
+A front-end engineer now. Learning to be 10x developer + full-stack developer + testing developer + project manager + product manager + client manager.
 
 ### Languages and Tools
 
