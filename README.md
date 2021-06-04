@@ -27,6 +27,8 @@ A front-end engineer now. Learning to be 10x developer + full-stack developer + 
 
 [![ModyQyW's github stats](https://github-readme-stats.vercel.app/api?username=ModyQyW)](https://github.com/anuraghazra/github-readme-stats)
 
+[Github Pages](https://modyqyw.github.io) | [Gitee Pages](https://modyqyw.gitee.io)
+
 [Chinese Resume](https://modyqyw.github.io/resume/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ModyQyW.ModyQyW)
