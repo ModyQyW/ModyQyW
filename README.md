@@ -56,8 +56,7 @@ A front-end developer now. Learning to be 10x developer + full-stack developer +
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    width="400"
-    height="200"
+    height="160"
     align="center"
     alt="ModyQyW's github stats"
     title="ModyQyW's github stats"
@@ -66,8 +65,7 @@ A front-end developer now. Learning to be 10x developer + full-stack developer +
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    width="400"
-    height="200"
+    height="160"
     align="center"
     alt="ModyQyW's Top Langs"
     title="ModyQyW's Top Langs"
