@@ -19,15 +19,65 @@ A front-end developer now. Learning to be 10x developer + full-stack developer +
 
 ### Languages and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code>
+  <img
+    height="20"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+  />
+</code>
+<code>
+  <img
+    height="20"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
+  />
+</code>
+<code>
+  <img
+     height="20"
+     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
+  />
+</code>
+<code>
+  <img
+    height="20"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+  />
+</code>
+<code>
+  <img
+    height="20"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"
+  />
+</code>
 
-[![ModyQyW's github stats](https://github-readme-stats.vercel.app/api?username=ModyQyW)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
-[Github Pages](https://modyqyw.github.io) | [Gitee Pages](https://modyqyw.gitee.io)
+<br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    height="200"
+    align="center"
+    alt="ModyQyW's github stats"
+    title="ModyQyW's github stats"
+    src="https://github-readme-stats.vercel.app/api?username=ModyQyW&count_private=true&show_icons=true"
+  />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    height="200"
+    align="center"
+    alt="ModyQyW's Top Langs"
+    title="ModyQyW's Top Langs"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModyQyW&layout=compact"
+  />
+</a>
+
+<br />
+
+<br />
+
+[Github Pages](https://modyqyw.github.io) | [Gitee Pages](https://modyqyw.gitee.io) 
 
 [Chinese Resume](https://modyqyw.github.io/resume/)
 
