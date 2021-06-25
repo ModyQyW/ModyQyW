@@ -140,44 +140,6 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   />
 </a>
 
-### Libraries
-
-<a href="https://github.com/modyqyw/uni-helper">
-  <img
-    width="45%"
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=modyqyw&repo=uni-helper&show_owner=true"
-  />
-</a>
-<a href="https://github.com/modyqyw/fabric">
-  <img
-    width="45%"
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=modyqyw&repo=fabric&show_owner=true"
-  />
-</a>
-<a href="https://github.com/modyqyw/utils">
-  <img
-    width="45%"
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=modyqyw&repo=utils&show_owner=true"
-  />
-</a>
-<a href="https://github.com/modyqyw/dsa">
-  <img
-    width="45%"
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=modyqyw&repo=dsa&show_owner=true"
-  />
-</a>
-<a href="https://github.com/modyqyw/mp-scss">
-  <img
-    width="45%"
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=modyqyw&repo=mp-scss&show_owner=true"
-  />
-</a>
-
 ### More info
 
 [Github Pages](https://modyqyw.github.io) | [Gitee Pages](https://modyqyw.gitee.io) 
