@@ -24,38 +24,6 @@ Learning to be 10x developer + full-stack developer + project manager + product 
 <code>
   <img
     height="40"
-    src="https://seekicon.com/free-icon-download/html-5_1.svg"
-    alt="HTML"
-    title="HTML"
-  />
-</code>
-<code>
-  <img
-    height="40"
-    src="https://seekicon.com/free-icon-download/css-3_2.svg"
-    alt="CSS"
-    title="CSS"
-  />
-</code>
-<code>
-  <img
-    height="40"
-    src="https://seekicon.com/free-icon-download/sass_4.svg"
-    alt="SASS"
-    title="SASS"
-  />
-</code>
-<code>
-  <img
-    height="40"
-    src="https://seekicon.com/free-icon-download/less_1.svg"
-    alt="LESS"
-    title="LESS"
-  />
-</code>
-<code>
-  <img
-    height="40"
     src="https://seekicon.com/free-icon-download/javascript_3.svg"
     alt="JavaScript"
     title="JavaScript"
