@@ -23,78 +23,88 @@ Learning to be 10x developer + full-stack developer + project manager + product 
 
 <code>
   <img
+    width="40"
     height="40"
-    src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/javascript/javascript.png"
+    src="https://seekicon.com/free-icon-download/javascript_3.svg"
     alt="JavaScript"
     title="JavaScript"
   />
 </code>
 <code>
   <img
+    width="40"
     height="40"
-    src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/typescript/typescript.png"
+    src="https://seekicon.com/free-icon-download/typescript_2.svg"
     alt="TypeScript"
     title="TypeScript"
   />
 </code>
 <code>
   <img
+    width="40"
     height="40"
-    src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/react/react.png"
+    src="https://seekicon.com/free-icon-download/reactjs_1.svg"
     alt="React"
     title="React"
   />
 </code>
 <code>
   <img
+    width="40"
     height="40"
-    src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/vue/vue.png"
+    src="https://seekicon.com/free-icon-download/vue_2.svg"
     alt="Vue"
     title="Vue"
   />
 </code>
 <code>
   <img
+    width="40"
     height="40"
-    src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/mongodb/mongodb.png"
+    src="https://seekicon.com/free-icon-download/mongodb_3.svg"
     alt="MongoDB"
     title="MongoDB"
   />
 </code>
 <code>
   <img
+    width="40"
     height="40"
-    src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/mysql/mysql.png"
+    src="https://seekicon.com/free-icon-download/mysql_1.svg"
     alt="MySQL"
     title="MySQL"
   />
 </code>
 <code>
   <img
+    width="40"
     height="40"
-    src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/redis/redis.png"
+    src="https://seekicon.com/free-icon-download/redis_3.svg"
     alt="Redis"
     title="Redis"
   />
 </code>
 <code>
   <img
+    width="40"
     height="40"
-    src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/webpack/webpack.png"
+    src="https://seekicon.com/free-icon-download/webpack_2.svg"
     alt="Webpack"
     title="Webpack"
   />
 </code>
 <code>
   <img
+    width="40"
     height="40"
-    src="https://rollupjs.org/logo.svg"
+    src="https://seekicon.com/free-icon-download/rollup_1.svg"
     alt="Rollup"
     title="Rollup"
   />
 </code>
 <code>
   <img
+    width="40"
     height="40"
     src="https://vitejs.dev/logo.svg"
     alt="Vite"
@@ -104,13 +114,14 @@ Learning to be 10x developer + full-stack developer + project manager + product 
 <code>
   <img
     height="40"
-    src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/electron/electron.png"
+    src="https://seekicon.com/free-icon-download/electron_2.svg"
     alt="Electron"
     title="Electron"
   />
 </code>
 <code>
   <img
+     width="40"
      height="40"
      src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/nodejs/nodejs.png"
      alt="Node"
@@ -119,14 +130,16 @@ Learning to be 10x developer + full-stack developer + project manager + product 
 </code>
 <code>
   <img
+     width="40"
      height="40"
-     src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/express/express.png"
+     src="https://symbols.getvecta.com/stencil_79/87_expressjs.72a4a0d57c.svg"
      alt="Express"
      title="Express"
   />
 </code>
 <code>
   <img
+     width="40"
      height="40"
      src="https://symbols.getvecta.com/stencil_79/25_eggjs-icon.fc8672e336.svg"
      alt="Egg"
@@ -135,16 +148,18 @@ Learning to be 10x developer + full-stack developer + project manager + product 
 </code>
 <code>
   <img
+    width="40"
     height="40"
-    src="https://material.io/static/angular/material_logo.1d5336632349ee8653bf.svg"
+    src="https://seekicon.com/free-icon-download/material-design_1.svg"
     alt="Material Design"
     title="Material Design"
   />
 </code>
 <code>
   <img
+    width="40"
     height="40"
-    src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
+    src="https://seekicon.com/free-icon-download/ant-design_2.svg"
     alt="Ant Design"
     title="Ant Design"
   />
