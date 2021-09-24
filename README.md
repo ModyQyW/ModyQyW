@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 A front-end developer now.
 
-Learning to be 10x developer + full-stack developer + project manager + product manager + client manager.
+Learning to be 10x developer + full-stack developer + project manager + product manager + client manager + ui designer + ux designer.
 
 ### Technologies of interest
 
@@ -52,9 +52,36 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
+    src="https://avatars.githubusercontent.com/u/33895495?s=200&v=4"
+    alt="Umi"
+    title="Umi"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"
+    alt="Next"
+    title="Next"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
     src="https://seekicon.com/free-icon-download/vue_2.svg"
     alt="Vue"
     title="Vue"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4"
+    alt="Nuxt"
+    title="Nuxt"
   />
 </code>
 <code>
@@ -141,9 +168,9 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
      width="40"
      height="40"
-     src="https://symbols.getvecta.com/stencil_79/25_eggjs-icon.fc8672e336.svg"
-     alt="Egg"
-     title="Egg"
+     src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"
+     alt="Nest"
+     title="Nest"
   />
 </code>
 <code>
