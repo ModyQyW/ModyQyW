@@ -25,6 +25,42 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
+    src="https://seekicon.com/free-icon-download/less_4.svg"
+    alt="LESS"
+    title="LESS"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://seekicon.com/free-icon-download/sass_4.svg"
+    alt="SASS"
+    title="SASS"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://seekicon.com/free-icon-download/tailwindcss_1.svg"
+    alt="TailwindCSS"
+    title="TailwindCSS"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://windicss.org/assets/logo.svg"
+    alt="WindiCSS"
+    title="WindiCSS"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
     src="https://seekicon.com/free-icon-download/javascript_3.svg"
     alt="JavaScript"
     title="JavaScript"
@@ -61,7 +97,7 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
-    src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"
+    src="https://seekicon.com/free-icon-download/next-js_1.svg"
     alt="Next"
     title="Next"
   />
@@ -79,7 +115,7 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
-    src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4"
+    src="https://seekicon.com/free-icon-download/nuxt_1.svg"
     alt="Nuxt"
     title="Nuxt"
   />
@@ -159,9 +195,18 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
      width="40"
      height="40"
-     src="https://symbols.getvecta.com/stencil_79/87_expressjs.72a4a0d57c.svg"
+     src="https://seekicon.com/free-icon-download/express_1.svg"
      alt="Express"
      title="Express"
+  />
+</code>
+<code>
+  <img
+     width="40"
+     height="40"
+     src="https://seekicon.com/free-icon-download/koa_1.svg"
+     alt="Koa"
+     title="Koa"
   />
 </code>
 <code>
@@ -171,6 +216,15 @@ Learning to be 10x developer + full-stack developer + project manager + product 
      src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"
      alt="Nest"
      title="Nest"
+  />
+</code>
+<code>
+  <img
+     width="40"
+     height="40"
+     src="https://gw.alicdn.com/tfs/TB1eGsrk79l0K4jSZFKXXXFjpXa-347-340.png"
+     alt="Midway"
+     title="Midway"
   />
 </code>
 <code>
