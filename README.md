@@ -106,6 +106,33 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
+    src="https://taro-ui.jd.com/img/logo-taro.png"
+    alt="Taro"
+    title="Taro"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://img.alicdn.com/tfs/TB1H2Kcb1H2gK0jSZFEXXcqMpXa-70-72.png"
+    alt="Rax"
+    title="Rax"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://github.com/expo/expo/raw/master/.github/resources/banner.png"
+    alt="Expo"
+    title="Expo"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
     src="https://seekicon.com/free-icon-download/vue_2.svg"
     alt="Vue"
     title="Vue"
@@ -118,6 +145,15 @@ Learning to be 10x developer + full-stack developer + project manager + product 
     src="https://seekicon.com/free-icon-download/nuxt_1.svg"
     alt="Nuxt"
     title="Nuxt"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://img-cdn-aliyun.dcloud.net.cn/stream/icon/__UNI__HelloUniApp.png"
+    alt="UniApp"
+    title="UniApp"
   />
 </code>
 <code>
