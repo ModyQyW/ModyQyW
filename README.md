@@ -106,7 +106,7 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
-    src="https://taro-ui.jd.com/img/logo-taro.png"
+    src="https://taro-ui.aotu.io/img/logo-taro.png"
     alt="Taro"
     title="Taro"
   />
