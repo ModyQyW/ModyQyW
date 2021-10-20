@@ -160,7 +160,7 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
-    src="https://seekicon.com/free-icon-download/mongodb_3.svg"
+    src="https://www.mongodb.com/assets/images/global/favicon.ico"
     alt="MongoDB"
     title="MongoDB"
   />
@@ -169,7 +169,7 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
-    src="https://seekicon.com/free-icon-download/mysql_1.svg"
+    src="https://seekicon.com/free-icon-download/mysql_2.svg"
     alt="MySQL"
     title="MySQL"
   />
