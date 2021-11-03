@@ -153,9 +153,27 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
+    src="https://seekicon.com/free-icon-download/material-ui_1.svg"
+    alt="MUI"
+    title="MUI"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
     src="https://seekicon.com/free-icon-download/ant-design_2.svg"
     alt="Ant Design"
     title="Ant Design"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4"
+    alt="Chakra"
+    title="Chakra"
   />
 </code>
 <code>
@@ -171,9 +189,18 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
-    src="https://seekicon.com/free-icon-download/material-ui_1.svg"
-    alt="MUI"
-    title="MUI"
+    src="https://user-images.githubusercontent.com/5962998/65694309-a825f000-e043-11e9-8382-db0dba0851e3.png"
+    alt="React Native Elements"
+    title="React Native Elements"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://github.com/akveo/react-native-ui-kitten/blob/master/src/showcases/assets/icon.png?raw=true"
+    alt="React Native UI Kitten"
+    title="React Native UI Kitten"
   />
 </code>
 <br />
@@ -253,9 +280,27 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
+    src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4"
+    alt="Chakra"
+    title="Chakra"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
     src="https://img01.yzcdn.cn/vant/logo.png"
     alt="Vant"
     title="Vant"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://varlet.gitee.io/varlet-ui/varlet_icon.png"
+    alt="Varlet"
+    title="Varlet"
   />
 </code>
 <br />
