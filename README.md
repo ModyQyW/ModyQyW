@@ -25,6 +25,24 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
+    src="https://seekicon.com/free-icon-download/javascript_3.svg"
+    alt="JavaScript"
+    title="JavaScript"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://seekicon.com/free-icon-download/typescript_2.svg"
+    alt="TypeScript"
+    title="TypeScript"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
     src="https://seekicon.com/free-icon-download/less_4.svg"
     alt="LESS"
     title="LESS"
@@ -37,6 +55,25 @@ Learning to be 10x developer + full-stack developer + project manager + product 
     src="https://seekicon.com/free-icon-download/sass_4.svg"
     alt="SASS"
     title="SASS"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://seekicon.com/free-icon-download/rust_1.svg"
+    alt="Rust"
+    title="Rust"
+  />
+</code>
+<br />
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://seekicon.com/free-icon-download/material-design_1.svg"
+    alt="Material Design"
+    title="Material Design"
   />
 </code>
 <code>
@@ -57,24 +94,7 @@ Learning to be 10x developer + full-stack developer + project manager + product 
     title="WindiCSS"
   />
 </code>
-<code>
-  <img
-    width="40"
-    height="40"
-    src="https://seekicon.com/free-icon-download/javascript_3.svg"
-    alt="JavaScript"
-    title="JavaScript"
-  />
-</code>
-<code>
-  <img
-    width="40"
-    height="40"
-    src="https://seekicon.com/free-icon-download/typescript_2.svg"
-    alt="TypeScript"
-    title="TypeScript"
-  />
-</code>
+<br />
 <code>
   <img
     width="40"
@@ -88,18 +108,18 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
-    src="https://avatars.githubusercontent.com/u/33895495?s=200&v=4"
-    alt="Umi"
-    title="Umi"
+    src="https://seekicon.com/free-icon-download/next-js_1.svg"
+    alt="Next"
+    title="Next"
   />
 </code>
 <code>
   <img
     width="40"
     height="40"
-    src="https://seekicon.com/free-icon-download/next-js_1.svg"
-    alt="Next"
-    title="Next"
+    src="https://avatars.githubusercontent.com/u/33895495?s=200&v=4"
+    alt="Umi"
+    title="Umi"
   />
 </code>
 <code>
@@ -133,6 +153,34 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
+    src="https://seekicon.com/free-icon-download/ant-design_2.svg"
+    alt="Ant Design"
+    title="Ant Design"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://gw.alipayobjects.com/zos/bmw-prod/cadedaff-8c88-4af2-870f-0574d322761c.svg"
+    alt="Ant Design Mobile"
+    title="Ant Design Mobile"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://seekicon.com/free-icon-download/material-ui_1.svg"
+    alt="MUI"
+    title="MUI"
+  />
+</code>
+<br />
+<code>
+  <img
+    width="40"
+    height="40"
     src="https://seekicon.com/free-icon-download/vue_2.svg"
     alt="Vue"
     title="Vue"
@@ -160,64 +208,57 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
-    src="https://www.mongodb.com/assets/images/global/favicon.ico"
-    alt="MongoDB"
-    title="MongoDB"
+    src="https://cdn.quasar.dev/logo-v2/svg/logo.svg"
+    alt="Quasar"
+    title="Quasar"
   />
 </code>
 <code>
   <img
     width="40"
     height="40"
-    src="https://seekicon.com/free-icon-download/mysql_2.svg"
-    alt="MySQL"
-    title="MySQL"
+    src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light.svg"
+    alt="Vuetify"
+    title="Vuetify"
   />
 </code>
 <code>
   <img
     width="40"
     height="40"
-    src="https://seekicon.com/free-icon-download/redis_3.svg"
-    alt="Redis"
-    title="Redis"
+    src="https://seekicon.com/free-icon-download/element_1.svg"
+    alt="Element & Element Plus"
+    title="Element & Element Plus"
   />
 </code>
 <code>
   <img
     width="40"
     height="40"
-    src="https://seekicon.com/free-icon-download/webpack_2.svg"
-    alt="Webpack"
-    title="Webpack"
+    src="https://www.naiveui.com/assets/naivelogo.93278402.svg"
+    alt="Naive"
+    title="Naive"
   />
 </code>
 <code>
   <img
     width="40"
     height="40"
-    src="https://seekicon.com/free-icon-download/rollup_1.svg"
-    alt="Rollup"
-    title="Rollup"
+    src="https://aliyuncdn.antdv.com/v2/assets/logo.1ef800a8.svg"
+    alt="Ant Design Vue"
+    title="Ant Design Vue"
   />
 </code>
 <code>
   <img
     width="40"
     height="40"
-    src="https://vitejs.dev/logo.svg"
-    alt="Vite"
-    title="Vite"
+    src="https://img01.yzcdn.cn/vant/logo.png"
+    alt="Vant"
+    title="Vant"
   />
 </code>
-<code>
-  <img
-    height="40"
-    src="https://seekicon.com/free-icon-download/electron_2.svg"
-    alt="Electron"
-    title="Electron"
-  />
-</code>
+<br />
 <code>
   <img
      width="40"
@@ -267,81 +308,74 @@ Learning to be 10x developer + full-stack developer + project manager + product 
   <img
     width="40"
     height="40"
-    src="https://seekicon.com/free-icon-download/material-design_1.svg"
-    alt="Material Design"
-    title="Material Design"
+    src="https://www.mongodb.com/assets/images/global/favicon.ico"
+    alt="MongoDB"
+    title="MongoDB"
   />
 </code>
 <code>
   <img
     width="40"
     height="40"
-    src="https://seekicon.com/free-icon-download/ant-design_2.svg"
-    alt="Ant Design"
-    title="Ant Design"
+    src="https://seekicon.com/free-icon-download/mysql_2.svg"
+    alt="MySQL"
+    title="MySQL"
   />
 </code>
 <code>
   <img
     width="40"
     height="40"
-    src="https://gw.alipayobjects.com/zos/bmw-prod/cadedaff-8c88-4af2-870f-0574d322761c.svg"
-    alt="Ant Design Mobile"
-    title="Ant Design Mobile"
+    src="https://seekicon.com/free-icon-download/redis_3.svg"
+    alt="Redis"
+    title="Redis"
+  />
+</code>
+<br />
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://seekicon.com/free-icon-download/webpack_2.svg"
+    alt="Webpack"
+    title="Webpack"
   />
 </code>
 <code>
   <img
     width="40"
     height="40"
-    src="https://seekicon.com/free-icon-download/material-ui_1.svg"
-    alt="MUI"
-    title="MUI"
+    src="https://seekicon.com/free-icon-download/rollup_1.svg"
+    alt="Rollup"
+    title="Rollup"
   />
 </code>
 <code>
   <img
     width="40"
     height="40"
-    src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-atom.svg"
-    alt="Vuetify"
-    title="Vuetify"
+    src="https://vitejs.dev/logo.svg"
+    alt="Vite"
+    title="Vite"
+  />
+</code>
+<br />
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://seekicon.com/free-icon-download/electron_2.svg"
+    alt="Electron"
+    title="Electron"
   />
 </code>
 <code>
   <img
     width="40"
     height="40"
-    src="https://seekicon.com/free-icon-download/element_1.svg"
-    alt="Element"
-    title="Element"
-  />
-</code>
-<code>
-  <img
-    width="40"
-    height="40"
-    src="https://aliyuncdn.antdv.com/v2/assets/logo.1ef800a8.svg"
-    alt="Ant Design Vue"
-    title="Ant Design Vue"
-  />
-</code>
-<code>
-  <img
-    width="40"
-    height="40"
-    src="https://img01.yzcdn.cn/vant/logo.png"
-    alt="Vant"
-    title="Vant"
-  />
-</code>
-<code>
-  <img
-    width="40"
-    height="40"
-    src="https://seekicon.com/free-icon-download/rust_1.svg"
-    alt="Rust"
-    title="Rust"
+    src="https://avatars.githubusercontent.com/u/54536011?s=200&v=4"
+    alt="Tauri"
+    title="Tauri"
   />
 </code>
 <br />
