@@ -66,6 +66,15 @@ Learning to be 10x developer + full-stack developer + project manager + product 
     title="Rust"
   />
 </code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://seekicon.com/free-icon-download/python_4.svg"
+    alt="Python"
+    title="Python"
+  />
+</code>
 <br />
 <code>
   <img
@@ -111,6 +120,15 @@ Learning to be 10x developer + full-stack developer + project manager + product 
     src="https://seekicon.com/free-icon-download/next-js_1.svg"
     alt="Next"
     title="Next"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://ice.work/img/logo.png"
+    alt="Ice"
+    title="Ice"
   />
 </code>
 <code>
@@ -229,6 +247,15 @@ Learning to be 10x developer + full-stack developer + project manager + product 
     src="https://seekicon.com/free-icon-download/nuxt_1.svg"
     alt="Nuxt"
     title="Nuxt"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://winixt.gitee.io/fesjs/logo.png"
+    alt="Fes"
+    title="Fes"
   />
 </code>
 <code>
@@ -365,6 +392,15 @@ Learning to be 10x developer + full-stack developer + project manager + product 
      src="https://gw.alicdn.com/tfs/TB1eGsrk79l0K4jSZFKXXXFjpXa-347-340.png"
      alt="Midway"
      title="Midway"
+  />
+</code>
+<code>
+  <img
+     width="40"
+     height="40"
+     src="https://raw.githubusercontent.com/blitz-js/art/master/svg-transparent-bg.svg"
+     alt="Blitz"
+     title="Blitz"
   />
 </code>
 <code>
