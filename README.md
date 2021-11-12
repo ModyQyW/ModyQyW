@@ -489,6 +489,25 @@ Learned or learning...
   />
 </code>
 <br />
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://seekicon.com/free-icon-download/docker_3.svg"
+    alt="Docker"
+    title="Docker"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://seekicon.com/free-icon-download/kubernetes_2.svg"
+    alt="Kubernetes"
+    title="Kubernetes"
+  />
+</code>
+<br />
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
