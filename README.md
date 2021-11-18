@@ -21,7 +21,7 @@ Learning to be 10x developer + full-stack developer + project manager + product 
 
 ### Technologies of interest
 
-Learned or learning...
+Keep learning :D
 
 <code>
   <img
@@ -66,24 +66,6 @@ Learned or learning...
     src="https://seekicon.com/free-icon-download/rust_1.svg"
     alt="Rust"
     title="Rust"
-  />
-</code>
-<code>
-  <img
-    width="40"
-    height="40"
-    src="https://seekicon.com/free-icon-download/python_4.svg"
-    alt="Python"
-    title="Python"
-  />
-</code>
-<code>
-  <img
-    width="40"
-    height="40"
-    src="https://golang.org/lib/godoc/images/go-logo-blue.svg"
-    alt="Go"
-    title="Go"
   />
 </code>
 <br />
