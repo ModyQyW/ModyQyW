@@ -111,8 +111,8 @@ Keep learning :D
     width="40"
     height="40"
     src="https://seekicon.com/free-icon-download/reactjs_1.svg"
-    alt="React"
-    title="React"
+    alt="React & React Native"
+    title="React & React Native"
   />
 </code>
 <code>
@@ -395,6 +395,15 @@ Keep learning :D
     src="https://avatars.githubusercontent.com/u/54536011?s=200&v=4"
     alt="Tauri"
     title="Tauri"
+  />
+</code>
+<code>
+  <img
+    width="40"
+    height="40"
+    src="https://seekicon.com/free-icon-download/ionic_3.svg"
+    alt="Ionic"
+    title="Ionic"
   />
 </code>
 <code>
