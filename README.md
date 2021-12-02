@@ -442,7 +442,7 @@ Keep learning :D
 
 ### Plan
 
-- 2021: Vue & React & Utils & DevOps & Miniprogram
+- 2019 & 2020 & 2021: Vue & React & Miniprogram & Mobile App & utils & a little Desktop App & a little backend & a little DevOps
 - 2022: Network & DevOps & Backend ...
 - 2023: Vue UI & React UI ...
 
