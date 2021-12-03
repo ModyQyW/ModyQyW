@@ -377,6 +377,13 @@ Keep learning :D
 <img
    width="20"
    height="20"
+   src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4"
+   alt="Remix"
+   title="Remix"
+/>
+<img
+   width="20"
+   height="20"
    src="https://raw.githubusercontent.com/blitz-js/art/master/svg-transparent-bg.svg"
    alt="Blitz"
    title="Blitz"
@@ -440,11 +447,40 @@ Keep learning :D
   />
 </a>
 
-### Plan
+### Roadmap
 
-- 2019 & 2020 & 2021: Vue & React & Miniprogram & Mobile App & utils & a little Desktop App & a little backend & a little DevOps
-- 2022: Network & DevOps & Backend ...
-- 2023: Vue UI & React UI ...
+- ...
+- 2022?: network & devOps & engineering & backend
+- 2021
+  - vue
+  - uni-app
+  - react
+  - next
+  - taro
+  - boilerplates
+  - @modyqyw/mp-scss (deprecated)
+  - @modyqyw/fabric
+  - @modyqyw/utils
+  - a little engineering
+  - a little devops
+  - vite-plugin-stylelint
+- 2020
+  - webpack4 tutorials
+  - taro
+  - @modyqyw/fabric
+  - uni-helpers
+  - uni-app
+  - @modyqyw/mp-scss (deprecated)
+  - boilerplates
+  - draft company front-end development standard
+- 2019
+  - vue
+  - wepy
+  - mpvue
+  - expo (react native)
+  - taro
+  - css-styles (deprecated)
+  - @modyqyw/mp-scss (deprecated)
 
 ### More info
 
