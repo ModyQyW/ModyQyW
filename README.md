@@ -21,6 +21,12 @@ Learning to be 10x developer + full-stack developer + project manager + product 
 
 Don't like old browsers, miniprograms, non-standard things.
 
+[Github Pages](https://modyqyw.github.io) | [Gitee Pages](https://modyqyw.gitee.io) 
+
+[Resume](https://modyqyw.github.io/resume/)
+
+![](https://visitor-badge.glitch.me/badge?page_id=ModyQyW.ModyQyW)
+
 ### Technologies of interest
 
 Keep learning :D
@@ -452,11 +458,8 @@ Keep learning :D
 - ...
 - 2022?: network & devOps & engineering & backend
 - 2021
-  - vue
-  - uni-app
-  - react
-  - next
-  - taro
+  - vue & uni-app & uni-helpers
+  - react & next & taro
   - boilerplates
   - @modyqyw/mp-scss (deprecated)
   - @modyqyw/fabric
@@ -465,27 +468,15 @@ Keep learning :D
   - a little devops
   - vite-plugin-stylelint
 - 2020
-  - webpack4 tutorials
-  - taro
+  - react & taro
+  - uni-app & uni-helpers
   - @modyqyw/fabric
-  - uni-helpers
-  - uni-app
   - @modyqyw/mp-scss (deprecated)
   - boilerplates
+  - webpack4 tutorials
   - draft company front-end development standard
 - 2019
-  - vue
-  - wepy
-  - mpvue
-  - expo (react native)
-  - taro
+  - vue & wepy & mpvue
+  - taro & expo (react native)
   - css-styles (deprecated)
   - @modyqyw/mp-scss (deprecated)
-
-### More info
-
-[Github Pages](https://modyqyw.github.io) | [Gitee Pages](https://modyqyw.gitee.io) 
-
-[Resume](https://modyqyw.github.io/resume/)
-
-![](https://visitor-badge.glitch.me/badge?page_id=ModyQyW.ModyQyW)
