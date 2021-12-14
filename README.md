@@ -469,6 +469,9 @@ Keep learning :D
   - a little engineering
   - a little devops
   - rollup & vite && vite-plugin-stylelint
+  - uni-app contributor <https://github.com/dcloudio/uni-app/pull/2848>
+  - iconify contributor <https://github.com/iconify/iconify/pull/94>
+  - luch-request contributor <https://github.com/lei-mu/luch-request/pull/44>
 - 2020
   - react & taro
   - uni-app & uni-helpers
