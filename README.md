@@ -19,7 +19,7 @@ A front-end developer now.
 
 Learning to be 10x developer + full-stack developer + project manager + product manager + client manager + ui designer + ux designer.
 
-Don't like old browsers, miniprograms, non-standard things.
+Don't like old browsers, miniapps / miniprograms, non-standard things.
 
 [Github Pages](https://modyqyw.github.io) | [Gitee Pages](https://modyqyw.gitee.io) 
 
