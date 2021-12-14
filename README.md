@@ -472,6 +472,9 @@ Keep learning :D
   - uni-app contributor <https://github.com/dcloudio/uni-app/pull/2848>
   - iconify contributor <https://github.com/iconify/iconify/pull/94>
   - luch-request contributor <https://github.com/lei-mu/luch-request/pull/44>
+  - [frontend-engineering](https://frontend-engineering.vercel.app/)
+  - [modern-frontend](https://github.com/ModyQyW/modern-frontend)
+  - [vue2-to-vue3-or-react](https://vue2-to-vue3-or-react.vercel.app/1)
 - 2020
   - react & taro
   - uni-app & uni-helpers
