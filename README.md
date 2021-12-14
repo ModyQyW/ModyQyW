@@ -458,7 +458,7 @@ Keep learning :D
 - ...
 - 2022?: network & devops & engineering & backend
 - 2021
-  - vue & uni-app & [uni-helpers](https://github.com/ModyQyW/uni-helpers)
+  - vue & uni-app & [uni-helper](https://github.com/ModyQyW/uni-helper)
   - react & next & taro
   - sass & [@modyqyw/mp-scss (deprecated)](https://github.com/ModyQyW/mp-scss)
   - tailwindcss & windicss
@@ -483,7 +483,7 @@ Keep learning :D
   - company [boilerplate-vue3](https://github.com/MillCloud/boilerplate-vue3)
 - 2020
   - react & taro
-  - uni-app & [uni-helpers](https://github.com/ModyQyW/uni-helpers)
+  - uni-app & [uni-helper](https://github.com/ModyQyW/uni-helper)
   - [@modyqyw/fabric](https://github.com/ModyQyW/fabric)
   - sass & [@modyqyw/mp-scss (deprecated)](https://github.com/ModyQyW/mp-scss)
   - webpack4 & [webpack4 tutorials](https://modyqyw.github.io/webpack/) && [webpack4 demos](https://github.com/ModyQyW/webpack4-plus-demos)
