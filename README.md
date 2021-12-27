@@ -497,3 +497,11 @@ Keep learning :D
   - taro & expo (react native)
   - [css-styles (deprecated)](https://www.npmjs.com/package/@modyqyw/css-styles)
   - sass & [@modyqyw/mp-scss (deprecated)](https://github.com/ModyQyW/mp-scss)
+
+### Donations
+
+[paypal](https://paypal.me/wurui7?country.x=C2&locale.x=zh_XC)
+
+<img src="https://github.com/ModyQyW/modyqyw.github.io/blob/main/docs/about/alipay.jpeg" title="alipay" alt="alipay" style="width: 128px;" />
+
+<img src="https://github.com/ModyQyW/modyqyw.github.io/blob/main/docs/about/wechat.png" title="wechat" alt="wechat" style="width: 128px;" />
