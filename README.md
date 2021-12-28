@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there. I'm ModyQyW.
+### Hi there. I'm ModyQyW. 👋🏻
 
 A front-end developer now.
 
@@ -67,6 +67,13 @@ Keep learning :D
   src="https://seekicon.com/free-icon-download/rust_1.svg"
   alt="Rust"
   title="Rust"
+/>
+<img
+  width="20"
+  height="20"
+  src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"
+  alt="Go"
+  title="Go"
 />
 <img
   width="20"
@@ -178,7 +185,7 @@ Keep learning :D
 <img
   width="20"
   height="20"
-  src="https://gw.alipayobjects.com/zos/bmw-prod/cadedaff-8c88-4af2-870f-0574d322761c.svg"
+  src="https://gw.alipayobjects.com/mdn/rms_ee68a8/afts/img/A*_JSuS4uucYAAAAAAAAAAAAAAARQnAQ"
   alt="Ant Design Mobile"
   title="Ant Design Mobile"
 />
@@ -417,6 +424,20 @@ Keep learning :D
   alt="Redis"
   title="Redis"
 />
+<img
+  width="20"
+  height="20"
+  src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png"
+  alt="TypeORM"
+  title="TypeORM"
+/>
+<img
+  width="20"
+  height="20"
+  src="https://seekicon.com/free-icon-download/prisma_1.svg"
+  alt="Prisma"
+  title="Prisma"
+/>
 <br />
 <img
   width="20"
@@ -458,7 +479,7 @@ Keep learning :D
 ### Roadmap
 
 - ...
-- 2022?: network & devops & engineering & backend
+- 2022?: network & devsecops & engineering & backend
 - 2021
   - vue & uni-app & [uni-helper](https://github.com/ModyQyW/uni-helper)
   - react & next & taro
