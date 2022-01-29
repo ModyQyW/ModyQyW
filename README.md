@@ -225,6 +225,8 @@ Keep learning :D
   title="Electron"
 />
 <img
+  width="20"
+  height="20"
   src="https://avatars.githubusercontent.com/u/54536011?s=200&v=4"
   alt="Tauri"
   title="Tauri"
