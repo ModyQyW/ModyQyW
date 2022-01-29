@@ -34,66 +34,49 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
 Keep learning :D
 
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/javascript_3.svg"
+  src="https://api.iconify.design/logos/javascript.svg?width=20&height=20"
   alt="JavaScript"
   title="JavaScript"
 />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/typescript_2.svg"
+  src="https://api.iconify.design/logos/typescript-icon.svg?width=20&height=20"
   alt="TypeScript"
   title="TypeScript"
 />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/less_4.svg"
-  alt="LESS"
-  title="LESS"
-/>
-<img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/sass_4.svg"
+  src="https://api.iconify.design/logos/sass.svg?width=20&height=20"
   alt="SASS"
   title="SASS"
 />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/rust_1.svg"
+  src="https://api.iconify.design/logos/rust.svg?width=20&height=20"
   alt="Rust"
   title="Rust"
 />
 <img
-  width="20"
-  height="20"
-  src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"
+  src="https://api.iconify.design/logos/go.svg?width=20&height=20"
   alt="Go"
   title="Go"
 />
-<img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/json_2.svg"
-  alt="JSON"
-  title="JSON"
-/>
 <br />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/material-design_1.svg"
+  src="https://api.iconify.design/mdi/material-design.svg?width=20&height=20"
   alt="Material Design"
   title="Material Design"
 />
 <img
+  src="https://api.iconify.design/logos/ant-design.svg?width=20&height=20"
+  alt="Ant Design"
+  title="Ant Design"
+/>
+<img
   width="20"
   height="20"
-  src="https://seekicon.com/free-icon-download/tailwindcss_1.svg"
+  alt="Fiori Design"
+  title="Fiori Design"
+/>
+<img
+  src="https://api.iconify.design/logos/tailwindcss-icon.svg?width=20&height=20"
   alt="TailwindCSS"
   title="TailwindCSS"
 />
@@ -104,34 +87,16 @@ Keep learning :D
   alt="WindiCSS"
   title="WindiCSS"
 />
-<img
-  width="20"
-  height="20"
-  src="https://raw.githubusercontent.com/antfu/unocss/main/playground/public/icon-gray.svg"
-  alt="UnoCSS"
-  title="UnoCSS"
-/>
 <br />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/reactjs_1.svg"
+  src="https://api.iconify.design/logos/react.svg?width=20&height=20"
   alt="React & React Native"
   title="React & React Native"
 />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/next-js_1.svg"
+  src="https://api.iconify.design/logos/nextjs-icon.svg?width=20&height=20"
   alt="Next"
   title="Next"
-/>
-<img
-  width="20"
-  height="20"
-  src="https://ice.work/img/logo.png"
-  alt="Ice"
-  title="Ice"
 />
 <img
   width="20"
@@ -155,32 +120,19 @@ Keep learning :D
   title="Rax"
 />
 <img
-  width="20"
-  height="20"
-  src="https://github.com/expo/expo/raw/master/.github/resources/banner.png"
+  src="https://api.iconify.design/logos/expo-icon.svg?width=20&height=20"
   alt="Expo"
   title="Expo"
 />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/material-ui_1.svg"
+  src="https://api.iconify.design/logos/material-ui.svg?width=20&height=20"
   alt="MUI"
   title="MUI"
 />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/ant-design_2.svg"
+  src="https://api.iconify.design/logos/ant-design.svg?width=20&height=20"
   alt="Ant Design"
   title="Ant Design"
-/>
-<img
-  width="20"
-  height="20"
-  src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4"
-  alt="Chakra"
-  title="Chakra"
 />
 <img
   width="20"
@@ -192,14 +144,7 @@ Keep learning :D
 <img
   width="20"
   height="20"
-  src="https://zarm.design/images/logo.1a6cfc30.svg"
-  alt="Zarm"
-  title="Zarm"
-/>
-<img
-  width="20"
-  height="20"
-  src="https://user-images.githubusercontent.com/5962998/65694309-a825f000-e043-11e9-8382-db0dba0851e3.png"
+  src="https://avatars.githubusercontent.com/u/49050851?s=200&v=4"
   alt="React Native Elements"
   title="React Native Elements"
 />
@@ -212,25 +157,14 @@ Keep learning :D
 />
 <br />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/vue_2.svg"
+  src="https://api.iconify.design/logos/vue.svg?width=20&height=20"
   alt="Vue"
   title="Vue"
 />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/nuxt_1.svg"
+  src="https://api.iconify.design/logos/nuxt-icon.svg?width=20&height=20"
   alt="Nuxt"
   title="Nuxt"
-/>
-<img
-  width="20"
-  height="20"
-  src="https://winixt.gitee.io/fesjs/logo.png"
-  alt="Fes"
-  title="Fes"
 />
 <img
   width="20"
@@ -240,32 +174,19 @@ Keep learning :D
   title="UniApp"
 />
 <img
-  width="20"
-  height="20"
-  src="https://cdn.quasar.dev/logo-v2/svg/logo.svg"
+  src="https://api.iconify.design/vscode-icons/file-type-quasar.svg?width=20&height=20"
   alt="Quasar"
   title="Quasar"
 />
 <img
-  width="20"
-  height="20"
-  src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light.svg"
+  src="https://api.iconify.design/logos/vuetifyjs.svg?width=20&height=20"
   alt="Vuetify"
   title="Vuetify"
 />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/element_1.svg"
+  src="https://api.iconify.design/logos/element.svg?width=20&height=20"
   alt="Element & Element Plus"
   title="Element & Element Plus"
-/>
-<img
-  width="20"
-  height="20"
-  src="https://www.naiveui.com/assets/naivelogo.93278402.svg"
-  alt="Naive"
-  title="Naive"
 />
 <img
   width="20"
@@ -277,108 +198,75 @@ Keep learning :D
 <img
   width="20"
   height="20"
-  src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4"
-  alt="Chakra"
-  title="Chakra"
-/>
-<img
-  width="20"
-  height="20"
   src="https://img01.yzcdn.cn/vant/logo.png"
   alt="Vant"
   title="Vant"
 />
-<img
-  width="20"
-  height="20"
-  src="https://zarm.design/images/logo.1a6cfc30.svg"
-  alt="Zarm Vue"
-  title="Zarm Vue"
-/>
-<img
-  width="20"
-  height="20"
-  src="https://varlet.gitee.io/varlet-ui/varlet_icon.png"
-  alt="Varlet"
-  title="Varlet"
-/>
 <br />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/webpack_2.svg"
+  src="https://api.iconify.design/logos/webpack.svg?width=20&height=20"
   alt="Webpack"
   title="Webpack"
 />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/rollup_1.svg"
+  src="https://api.iconify.design/logos/rollupjs.svg?width=20&height=20"
   alt="Rollup"
   title="Rollup"
 />
 <img
-  width="20"
-  height="20"
-  src="https://vitejs.dev/logo.svg"
+  src="https://api.iconify.design/logos/vitejs.svg?width=20&height=20"
   alt="Vite"
   title="Vite"
 />
 <br />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/electron_2.svg"
+  src="https://api.iconify.design/logos/electron.svg?width=20&height=20"
   alt="Electron"
   title="Electron"
 />
 <img
-  width="20"
-  height="20"
   src="https://avatars.githubusercontent.com/u/54536011?s=200&v=4"
   alt="Tauri"
   title="Tauri"
 />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/ionic_3.svg"
+  src="https://api.iconify.design/logos/ionic-icon.svg?width=20&height=20"
   alt="Ionic"
   title="Ionic"
 />
 <img
-  width="20"
-  height="20"
-  src="https://github.com/ionic-team/capacitor/blob/main/ios-template/App/App/Assets.xcassets/AppIcon.appiconset/AppIcon-40x40@3x.png?raw=true"
+  src="https://api.iconify.design/logos/capacitorjs-icon.svg?width=20&height=20"
   alt="Capacitor"
   title="Capacitor"
 />
 <br />
 <img
-   width="20"
-   height="20"
-   src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/nodejs/nodejs.png"
+   src="https://api.iconify.design/logos/nodejs.svg?width=20&height=20"
    alt="Node"
    title="Node"
 />
 <img
-   width="20"
-   height="20"
-   src="https://seekicon.com/free-icon-download/express_1.svg"
+   src="https://api.iconify.design/logos/nodemon.svg?width=20&height=20"
+   alt="Nodemon"
+   title="Nodemon"
+/>
+<img
+   src="https://api.iconify.design/logos/pm2.svg?width=20&height=20"
+   alt="PM2"
+   title="PM2"
+/>
+<img
+   src="https://api.iconify.design/logos/express.svg?width=20&height=20"
    alt="Express"
    title="Express"
 />
 <img
-   width="20"
-   height="20"
-   src="https://seekicon.com/free-icon-download/koa_1.svg"
+   src="https://api.iconify.design/logos/koa.svg?width=20&height=20"
    alt="Koa"
    title="Koa"
 />
 <img
-   width="20"
-   height="20"
-   src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"
+   src="https://api.iconify.design/logos/nestjs.svg?width=20&height=20"
    alt="Nest"
    title="Nest"
 />
@@ -390,66 +278,68 @@ Keep learning :D
    title="Midway"
 />
 <img
-   width="20"
-   height="20"
-   src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4"
-   alt="Remix"
-   title="Remix"
-/>
-<img
-   width="20"
-   height="20"
-   src="https://raw.githubusercontent.com/blitz-js/art/master/svg-transparent-bg.svg"
-   alt="Blitz"
-   title="Blitz"
-/>
-<img
-  width="20"
-  height="20"
-  src="https://www.mongodb.com/assets/images/global/favicon.ico"
+  src="https://api.iconify.design/vscode-icons/file-type-mongo.svg?width=20&height=20"
   alt="MongoDB"
   title="MongoDB"
 />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/mysql_2.svg"
+  src="https://api.iconify.design/logos/mysql-icon.svg?width=20&height=20"
   alt="MySQL"
   title="MySQL"
 />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/redis_3.svg"
+  src="https://api.iconify.design/logos/redis.svg?width=20&height=20"
   alt="Redis"
   title="Redis"
 />
+<br />
 <img
-  width="20"
-  height="20"
-  src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png"
-  alt="TypeORM"
-  title="TypeORM"
+  src="https://api.iconify.design/logos/jest.svg?width=20&height=20"
+  alt="Jest"
+  title="Jest"
 />
 <img
   width="20"
   height="20"
-  src="https://seekicon.com/free-icon-download/prisma_1.svg"
-  alt="Prisma"
-  title="Prisma"
+  src="https://vitest.dev/logo.svg"
+  alt="Vitest"
+  title="Vitest"
+/>
+<img
+  width="20"
+  height="20"
+  src="https://seekicon.com/free-icon-download/cypress_1.svg"
+  alt="Cypress"
+  title="Cypress"
+/>
+<img
+  width="20"
+  height="20"
+  src="https://playwright.dev/img/playwright-logo.svg"
+  alt="Playwright"
+  title="Playwright"
+/>
+<img
+  width="20"
+  height="20"
+  src="https://testing-library.com/img/logo-large.png"
+  alt="Testing Library"
+  title="Testing Library"
+/>
+<img
+  width="20"
+  height="20"
+  alt="Supertest"
+  title="Supertest"
 />
 <br />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/docker_3.svg"
+  src="https://api.iconify.design/logos/docker-icon.svg?width=20&height=20"
   alt="Docker"
   title="Docker"
 />
 <img
-  width="20"
-  height="20"
-  src="https://seekicon.com/free-icon-download/kubernetes_2.svg"
+  src="https://api.iconify.design/logos/kubernetes.svg?width=20&height=20"
   alt="Kubernetes"
   title="Kubernetes"
 />
@@ -479,7 +369,7 @@ Keep learning :D
 ### Roadmap
 
 - ...
-- 2022?: network & devsecops & engineering & express & nest & mongodb & redis
+- 2022?: network & devsecops & engineering & express & nest & mongodb & redis & testing
 - 2021
   - vue & uni-app & [uni-helper](https://github.com/ModyQyW/uni-helper)
   - react & next & taro
