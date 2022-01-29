@@ -479,7 +479,7 @@ Keep learning :D
 ### Roadmap
 
 - ...
-- 2022?: network & devsecops & engineering & backend
+- 2022?: network & devsecops & engineering & express & nest & mongodb & redis
 - 2021
   - vue & uni-app & [uni-helper](https://github.com/ModyQyW/uni-helper)
   - react & next & taro
