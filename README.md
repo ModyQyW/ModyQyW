@@ -137,7 +137,7 @@ Keep learning :D
 <img
   width="20"
   height="20"
-  src="https://gw.alipayobjects.com/mdn/rms_ee68a8/afts/img/A*_JSuS4uucYAAAAAAAAAAAAAAARQnAQ"
+  src="https://gw.alipayobjects.com/zos/bmw-prod/b874caa9-4458-412a-9ac6-a61486180a62.svg"
   alt="Ant Design Mobile"
   title="Ant Design Mobile"
 />
