@@ -202,6 +202,26 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
 />
 <br />
 <img
+  src="https://api.iconify.design/logos/angular-icon.svg?width=32&height=32"
+  alt="Angular"
+  title="Angular"
+/>
+<br />
+<img
+  src="https://api.iconify.design/logos/svelte-icon.svg?width=32&height=32"
+  alt="Svelte"
+  title="Svelte"
+/>
+<br />
+<img
+  width="32"
+  height="32"
+  src="https://www.solidjs.com/assets/logo.123b04bc.svg"
+  alt="Solid"
+  title="Solid"
+/>
+<br />
+<img
   src="https://api.iconify.design/logos/webpack.svg?width=32&height=32"
   alt="Webpack"
   title="Webpack"
