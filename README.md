@@ -123,7 +123,7 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
   title="Expo"
 />
 <img
-  src="https://api.iconify.design/logos/material-ui.svg?width=20&height=20"
+  src="https://api.iconify.design/logos/material-ui.svg?width=32&height=32"
   alt="MUI"
   title="MUI"
 />
