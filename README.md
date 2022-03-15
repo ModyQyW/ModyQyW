@@ -421,7 +421,7 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
   - uni-app & [uni-helper](https://github.com/ModyQyW/uni-helper)
   - [@modyqyw/fabric](https://github.com/ModyQyW/fabric)
   - sass & [@modyqyw/mp-scss (deprecated)](https://github.com/ModyQyW/mp-scss)
-  - webpack4 & [webpack4 tutorials](https://modyqyw.github.io/webpack/) && [webpack4 demos](https://github.com/ModyQyW/webpack4-plus-demos)
+  - webpack4 & [webpack4 tutorials](https://modyqyw.github.io/webpack/) && [webpack4 demos](https://github.com/ModyQyW/webpack4-demos)
   - company [development standard](https://millcloud.github.io/standard/)
   - company [boilerplate-vue2](https://github.com/MillCloud/boilerplate-vue2)
   - company [boilerplate-uni-app-vue2](https://github.com/MillCloud/boilerplate-uni-app-vue2)
