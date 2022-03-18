@@ -106,7 +106,7 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
 <img
   width="32"
   height="32"
-  src="https://taro-ui.aotu.io/img/logo-taro.png"
+  src="https://taro-ui.jd.com/img/logo-taro.png"
   alt="Taro"
   title="Taro"
 />
