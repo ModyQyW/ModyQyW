@@ -390,6 +390,7 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
 
 - ...
 - 2022?: network & devsecops & engineering & express & nest & mongodb & redis & testing
+  - taro contributor <https://github.com/NervJS/taro/pull/11505>
   - [naming-cheatsheet translation](https://github.com/ModyQyW/naming-cheatsheet)
   - rollup & vite & [vite-plugin-stylelint](https://github.com/ModyQyW/vite-plugin-stylelint) & [vite-plugin-eslint](https://github.com/ModyQyW/vite-plugin-eslint)
   - company [boilerplate-uni-app-vue3](https://github.com/MillCloud/boilerplate-uni-app-vue3)
