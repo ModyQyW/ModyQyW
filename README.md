@@ -23,8 +23,6 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
 
 [Github Pages](https://modyqyw.github.io) | [Gitee Pages](https://modyqyw.gitee.io) 
 
-[React Demos](https://modyqyw.github.io/react-demos) | [Vue Demos](https://modyqyw.github.io/vue-demos)
-
 [Resume](https://modyqyw.github.io/resume/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ModyQyW.ModyQyW)
@@ -66,12 +64,6 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
   src="https://api.iconify.design/logos/ant-design.svg?width=32&height=32"
   alt="Ant Design"
   title="Ant Design"
-/>
-<img
-  width="32"
-  height="32"
-  alt="Fiori Design"
-  title="Fiori Design"
 />
 <img
   src="https://api.iconify.design/logos/tailwindcss-icon.svg?width=32&height=32"
@@ -202,25 +194,20 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
 />
 <br />
 <img
-  src="https://api.iconify.design/logos/angular-icon.svg?width=32&height=32"
-  alt="Angular"
-  title="Angular"
+  src="https://api.iconify.design/logos/babel.svg?width=32&height=32"
+  alt="Babel"
+  title="Babel"
 />
-<br />
 <img
-  src="https://api.iconify.design/logos/svelte-icon.svg?width=32&height=32"
-  alt="Svelte"
-  title="Svelte"
+  src="https://api.iconify.design/logos/swc.svg?width=32&height=32"
+  alt="SWC"
+  title="SWC"
 />
-<br />
 <img
-  width="32"
-  height="32"
-  src="https://www.solidjs.com/assets/logo.123b04bc.svg"
-  alt="Solid"
-  title="Solid"
+  src="https://api.iconify.design/logos/esbuild.svg?width=32&height=32"
+  alt="esbuild"
+  title="esbuild"
 />
-<br />
 <img
   src="https://api.iconify.design/logos/webpack.svg?width=32&height=32"
   alt="Webpack"
@@ -297,10 +284,16 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
    alt="Midway"
    title="Midway"
 />
+<br />
 <img
   src="https://api.iconify.design/vscode-icons/file-type-mongo.svg?width=32&height=32"
   alt="MongoDB"
   title="MongoDB"
+/>
+<img
+  src="https://api.iconify.design/logos/postgresql.svg?width=32&height=32"
+  alt="PostgreSQL"
+  title="PostgreSQL"
 />
 <img
   src="https://api.iconify.design/logos/mysql-icon.svg?width=32&height=32"
@@ -363,38 +356,21 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
   alt="Kubernetes"
   title="Kubernetes"
 />
-<br />
-<br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    align="center"
-    alt="ModyQyW's Top Langs"
-    title="ModyQyW's Top Langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModyQyW&hide=html"
-  />
-</a>
-
-### Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    width="45%"
-    align="center"
-    alt="ModyQyW's github stats"
-    title="ModyQyW's github stats"
-    src="https://github-readme-stats.vercel.app/api?username=ModyQyW&count_private=true&show_icons=true"
-  />
-</a>
 
 ### Roadmap
 
-- ...
-- 2022?: network & devsecops & engineering & express & nest & mongodb & redis & testing
-  - taro contributor <https://github.com/NervJS/taro/pull/11505>
-  - [naming-cheatsheet translation](https://github.com/ModyQyW/naming-cheatsheet)
-  - rollup & vite & [vite-plugin-stylelint](https://github.com/ModyQyW/vite-plugin-stylelint) & [vite-plugin-eslint](https://github.com/ModyQyW/vite-plugin-eslint)
-  - company [boilerplate-uni-app-vue3](https://github.com/MillCloud/boilerplate-uni-app-vue3)
-  - company [boilerplate-express (archived)](https://github.com/MillCloud/boilerplate-express)
+<details>
+  <summary>2022</summary>
+  <ul>
+    <li>taro contributor https://github.com/NervJS/taro/pull/11505</li>
+    <li>naming-cheatsheet translation https://github.com/ModyQyW/naming-cheatsheet</li>
+    <li>rollup & vite & vite-plugin-stylelint https://github.com/ModyQyW/vite-plugin-stylelint & vite-plugin-eslint https://github.com/ModyQyW/vite-plugin-eslint</li>
+    <li>company boilerplate-uni-app-vue3 (archived) https://github.com/MillCloud/boilerplate-uni-app-vue3</li>
+    <li>company boilerplate-express (archived) https://github.com/MillCloud/boilerplate-express</li>
+    <li>company presets https://github.com/MillCloud/presets</li>
+  </ul>
+</details>
+
 - 2021
   - vue & uni-app & [uni-helper](https://github.com/ModyQyW/uni-helper)
   - react & next & taro
