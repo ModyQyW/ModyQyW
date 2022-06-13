@@ -127,6 +127,13 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
 <img
   width="32"
   height="32"
+  src="https://chakra-ui.com/favicon.png"
+  alt="Chakra UI"
+  title="Chakra UI"
+/>
+<img
+  width="32"
+  height="32"
   src="https://gw.alipayobjects.com/zos/bmw-prod/b874caa9-4458-412a-9ac6-a61486180a62.svg"
   alt="Ant Design Mobile"
   title="Ant Design Mobile"
@@ -174,9 +181,9 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
   title="Vuetify"
 />
 <img
-  src="https://api.iconify.design/logos/element.svg?width=32&height=32"
-  alt="Element & Element Plus"
-  title="Element & Element Plus"
+  src="https://api.iconify.design/ep/element-plus.svg?color=%23409eff&width=32&height=32"
+  alt="Element Plus"
+  title="Element Plus"
 />
 <img
   width="32"
@@ -362,52 +369,69 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
 <details>
   <summary>2022</summary>
   <ul>
+    <li>@modyqyw/fabric https://github.com/ModyQyW/fabric</li>
+    <li>rollup & vite & vite-plugin-stylelint https://github.com/ModyQyW/vite-plugin-stylelint & vite-plugin-eslint https://github.com/ModyQyW/vite-plugin-eslint</li>
     <li>taro contributor https://github.com/NervJS/taro/pull/11505</li>
     <li>naming-cheatsheet translation https://github.com/ModyQyW/naming-cheatsheet</li>
-    <li>rollup & vite & vite-plugin-stylelint https://github.com/ModyQyW/vite-plugin-stylelint & vite-plugin-eslint https://github.com/ModyQyW/vite-plugin-eslint</li>
-    <li>company boilerplate-uni-app-vue3 (archived) https://github.com/MillCloud/boilerplate-uni-app-vue3</li>
-    <li>company boilerplate-express (archived) https://github.com/MillCloud/boilerplate-express</li>
+    <li>company azure devops</li>
+    <li>company boilerplate-vue3 (deprecated) https://github.com/MillCloud/boilerplate-vue3</li>
+    <li>company boilerplate-uni-app-vue3 (deprecated) https://github.com/MillCloud/boilerplate-uni-app-vue3</li>
+    <li>company boilerplate-express (deprecated) https://github.com/MillCloud/boilerplate-express</li>
     <li>company presets https://github.com/MillCloud/presets</li>
   </ul>
 </details>
 
-- 2021
-  - vue & uni-app & [uni-helper](https://github.com/ModyQyW/uni-helper)
-  - react & next & taro
-  - sass & [@modyqyw/mp-scss (deprecated)](https://github.com/ModyQyW/mp-scss)
-  - tailwindcss & windicss
-  - [@modyqyw/fabric](https://github.com/ModyQyW/fabric)
-  - [@modyqyw/utils (deprecated)](https://github.com/ModyQyW/utils)
-  - node
-  - a little engineering
-  - a little devops
-  - rollup & vite & [vite-plugin-stylelint](https://github.com/ModyQyW/vite-plugin-stylelint)
-  - uni-app contributor <https://github.com/dcloudio/uni-app/pull/2848>
-  - iconify contributor <https://github.com/iconify/iconify/pull/94>
-  - luch-request contributor <https://github.com/lei-mu/luch-request/pull/44>
-  - [frontend-engineering (archived)](https://frontend-engineering.vercel.app/)
-  - [modern-frontend (archived)](https://modern-frontend.vercel.app/)
-  - [vue2-to-vue3-or-react (archived)](https://vue2-to-vue3-or-react.vercel.app/)
-  - company [development standard](https://millcloud.github.io/standard/)
-  - company [developer examination](https://millcloud.github.io/developer-examination/)
-  - company [glossary](https://millcloud.github.io/glossary/)
-  - company [boilerplate-vue2 (archived)](https://github.com/MillCloud/boilerplate-vue2)
-  - company [boilerplate-uni-app-vue2 (archived)](https://github.com/MillCloud/boilerplate-uni-app-vue2)
-  - company [boilerplate-vue3](https://github.com/MillCloud/boilerplate-vue3)
-- 2020
-  - react & taro
-  - uni-app & [uni-helper](https://github.com/ModyQyW/uni-helper)
-  - [@modyqyw/fabric](https://github.com/ModyQyW/fabric)
-  - sass & [@modyqyw/mp-scss (deprecated)](https://github.com/ModyQyW/mp-scss)
-  - webpack4 & [webpack4 demos (archived)](https://github.com/ModyQyW/webpack4-demos)
-  - company [development standard](https://millcloud.github.io/standard/)
-  - company [boilerplate-vue2 (archived)](https://github.com/MillCloud/boilerplate-vue2)
-  - company [boilerplate-uni-app-vue2 (archived)](https://github.com/MillCloud/boilerplate-uni-app-vue2)
-- 2019
-  - vue & wepy & mpvue
-  - taro & expo (react native)
-  - [css-styles (deprecated)](https://www.npmjs.com/package/@modyqyw/css-styles)
-  - sass & [@modyqyw/mp-scss (deprecated)](https://github.com/ModyQyW/mp-scss)
+<details>
+  <summary>2021</summary>
+  <ul>
+    <li>vue & uni-app & uni-helper https://github.com/ModyQyW/uni-helper</li>
+    <li>react & next & taro</li>
+    <li>sass & @modyqyw/mp-scss (deprecated) https://github.com/ModyQyW/mp-scss</li>
+    <li>tailwindcss & windicss</li>
+    <li>@modyqyw/fabric https://github.com/ModyQyW/fabric</li>
+    <li>@modyqyw/utils (deprecated) https://github.com/ModyQyW/utils</li>
+    <li>a little node</li>
+    <li>a little engineering</li>
+    <li>a little devops</li>
+    <li>rollup & vite & vite-plugin-stylelint https://github.com/ModyQyW/vite-plugin-stylelint</li>
+    <li>uni-app contributor https://github.com/dcloudio/uni-app/pull/2848</li>
+    <li>iconify contributor https://github.com/iconify/iconify/pull/94</li>
+    <li>luch-request contributor https://github.com/lei-mu/luch-request/pull/44</li>
+    <li>company frontend-engineering (deprecated) https://frontend-engineering.vercel.app/</li>
+    <li>company modern-frontend (deprecated) https://modern-frontend.vercel.app/</li>
+    <li>company vue2-to-vue3-or-react (deprecated) https://vue2-to-vue3-or-react.vercel.app/</li>
+    <li>company development standard https://millcloud.github.io/standard/</li>
+    <li>company developer examination https://millcloud.github.io/developer-examination/</li>
+    <li>company glossary https://millcloud.github.io/glossary/</li>
+    <li>company boilerplate-vue2 (deprecated) https://github.com/MillCloud/boilerplate-vue2</li>
+    <li>company boilerplate-uni-app-vue2 (deprecated) https://github.com/MillCloud/boilerplate-uni-app-vue2</li>
+    <li>company boilerplate-vue3 (deprecated) https://github.com/MillCloud/boilerplate-vue3</li>
+  </ul>
+</details>
+
+<details>
+  <summary>2020</summary>
+  <ul>
+    <li>react & taro</li>
+    <li>uni-app & uni-helper https://github.com/ModyQyW/uni-helper</li>
+    <li>@modyqyw/fabric https://github.com/ModyQyW/fabric</li>
+    <li>sass & @modyqyw/mp-scss (deprecated) https://github.com/ModyQyW/mp-scss</li>
+    <li>webpack4 & webpack4 demos (deprecated) https://github.com/ModyQyW/webpack4-demos</li>
+    <li>company development standard https://millcloud.github.io/standard/</li>
+    <li>company boilerplate-vue2 (deprecated) https://github.com/MillCloud/boilerplate-vue2)</li>
+    <li>company boilerplate-uni-app-vue2 (deprecated) https://github.com/MillCloud/boilerplate-uni-app-vue2)</li>
+  </ul>
+</details>
+
+<details>
+  <summary>2019</summary>
+  <ul>
+    <li>vue & wepy & mpvue</li>
+    <li>taro & expo</li>
+    <li>css-styles (deprecated) https://www.npmjs.com/package/@modyqyw/css-styles</li>
+    <li>sass & @modyqyw/mp-scss (deprecated) https://github.com/ModyQyW/mp-scss</li>
+  </ul>
+</details>
 
 ### Donations
 
