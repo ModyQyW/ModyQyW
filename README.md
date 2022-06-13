@@ -418,8 +418,8 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     <li>sass & @modyqyw/mp-scss (deprecated) https://github.com/ModyQyW/mp-scss</li>
     <li>webpack4 & webpack4 demos (deprecated) https://github.com/ModyQyW/webpack4-demos</li>
     <li>company development standard https://millcloud.github.io/standard/</li>
-    <li>company boilerplate-vue2 (deprecated) https://github.com/MillCloud/boilerplate-vue2)</li>
-    <li>company boilerplate-uni-app-vue2 (deprecated) https://github.com/MillCloud/boilerplate-uni-app-vue2)</li>
+    <li>company boilerplate-vue2 (deprecated) https://github.com/MillCloud/boilerplate-vue2</li>
+    <li>company boilerplate-uni-app-vue2 (deprecated) https://github.com/MillCloud/boilerplate-uni-app-vue2</li>
   </ul>
 </details>
 
