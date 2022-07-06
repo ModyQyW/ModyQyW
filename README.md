@@ -21,9 +21,8 @@ Learning to be 10x developer + full-stack developer + project manager + product 
 
 Don't like old browsers, miniapps / miniprograms, non-standard things.
 
-![ModyQyW's GitHub stats](https://github-readme-stats.vercel.app/api?username=ModyQyW&count_private=true&show_icons=true)
-
-[![ModyQyW's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModyQyW&layout=compact)](https://github.com/ModyQyW/github-readme-stats)
+| <a href="https://github.com/ModyQyW/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ModyQyW&show_icons=true&include_all_commits=true&hide_border=true" alt="ModyQyW's github stats" /></a> | <a href="https://github.com/ModyQyW/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModyQyW&layout=compact&hide_border=true" alt="ModyQyW's Top Langs" /></a> |
+| ------------- | ------------- |
 
 [Github Pages](https://modyqyw.github.io) | [Gitee Pages](https://modyqyw.gitee.io) 
 
