@@ -435,6 +435,8 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
 
 ### Donations
 
+Please consider sponsor me if you think my jobs are valueable. ღ( ´･ᴗ･` )
+
 [paypal](https://paypal.me/wurui7?country.x=C2&locale.x=zh_XC)
 
 <details>
