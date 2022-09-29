@@ -38,26 +38,16 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     alt="TypeScript"
     title="TypeScript"
   />
-  <img
-    src="https://api.iconify.design/logos/sass.svg?width=32&height=32"
-    alt="SASS"
-    title="SASS"
-  />
-  <img
-    src="https://api.iconify.design/logos/rust.svg?width=32&height=32"
-    alt="Rust"
-    title="Rust"
-  />
-  <img
-    src="https://api.iconify.design/logos/go.svg?width=32&height=32"
-    alt="Go"
-    title="Go"
-  />
   <br />
   <img
     src="https://api.iconify.design/mdi/material-design.svg?width=32&height=32"
     alt="Material Design"
     title="Material Design"
+  />
+  <img
+    src="https://api.iconify.design/logos/apple.svg?width=32&height=32"
+    alt="Apple Design"
+    title="Apple Design"
   />
   <img
     src="https://api.iconify.design/logos/ant-design.svg?width=32&height=32"
@@ -75,6 +65,13 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     src="https://windicss.org/assets/logo.svg"
     alt="WindiCSS"
     title="WindiCSS"
+  />
+  <img
+    width="32"
+    height="32"
+    src="https://raw.githubusercontent.com/unocss/unocss/main/playground/public/icon-gray.svg"
+    alt="UnoCSS"
+    title="UnoCss"
   />
   <br />
   <img
@@ -198,6 +195,13 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     alt="Vant"
     title="Vant"
   />
+  <img
+    width="32"
+    height="32"
+    src="https://img14.360buyimg.com/imagetools/jfs/t1/167902/2/8762/791358/603742d7E9b4275e3/e09d8f9a8bf4c0ef.png"
+    alt="Nut UI"
+    title="Nut UI"
+  />
   <br />
   <img
     src="https://api.iconify.design/logos/babel.svg?width=32&height=32"
@@ -254,41 +258,53 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
   />
   <br />
   <img
-     src="https://api.iconify.design/logos/nodejs.svg?width=32&height=32"
-     alt="Node"
-     title="Node"
+    src="https://api.iconify.design/logos/nodejs.svg?width=32&height=32"
+    alt="Node"
+    title="Node"
   />
   <img
-     src="https://api.iconify.design/logos/nodemon.svg?width=32&height=32"
-     alt="Nodemon"
-     title="Nodemon"
+    src="https://api.iconify.design/logos/nodemon.svg?width=32&height=32"
+    alt="Nodemon"
+    title="Nodemon"
   />
   <img
-     src="https://api.iconify.design/logos/pm2.svg?width=32&height=32"
-     alt="PM2"
-     title="PM2"
+    src="https://api.iconify.design/logos/pm2.svg?width=32&height=32"
+    alt="PM2"
+    title="PM2"
   />
   <img
-     src="https://api.iconify.design/logos/express.svg?width=32&height=32"
-     alt="Express"
-     title="Express"
+    src="https://api.iconify.design/logos/express.svg?width=32&height=32"
+    alt="Express"
+    title="Express"
   />
   <img
-     src="https://api.iconify.design/logos/koa.svg?width=32&height=32"
-     alt="Koa"
-     title="Koa"
+    src="https://api.iconify.design/logos/koa.svg?width=32&height=32"
+    alt="Koa"
+    title="Koa"
   />
   <img
-     src="https://api.iconify.design/logos/nestjs.svg?width=32&height=32"
-     alt="Nest"
-     title="Nest"
+    src="https://api.iconify.design/logos/fastify-icon.svg?width=32&height=32"
+    alt="Fastify"
+    title="Fastify"
   />
   <img
-     width="32"
-     height="32"
-     src="https://gw.alicdn.com/tfs/TB1eGsrk79l0K4jSZFKXXXFjpXa-347-340.png"
-     alt="Midway"
-     title="Midway"
+    src="https://api.iconify.design/logos/nestjs.svg?width=32&height=32"
+    alt="Nest"
+    title="Nest"
+  />
+  <img
+    width="32"
+    height="32"
+    src="https://cellbang-lib.oss-cn-hangzhou.aliyuncs.com/Malagu%20Logo%20Green.svg"
+    alt="Malagu"
+    title="Malagu"
+  />
+  <img
+    width="32"
+    height="32"
+    src="https://gw.alicdn.com/tfs/TB1eGsrk79l0K4jSZFKXXXFjpXa-347-340.png"
+    alt="Midway"
+    title="Midway"
   />
   <br />
   <img
