@@ -386,6 +386,8 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
   <summary>2022</summary>
   <ul>
     <li>@modyqyw/fabric https://github.com/ModyQyW/fabric</li>
+    <li>@modyqyw/tailwind-presets https://github.com/ModyQyW/tailwind-presets</li>
+    <li>uni-helper https://github.com/ModyQyW/uni-helper</li>
     <li>rollup & vite & vite-plugin-stylelint https://github.com/ModyQyW/vite-plugin-stylelint & vite-plugin-eslint https://github.com/ModyQyW/vite-plugin-eslint</li>
     <li>taro contributor https://github.com/NervJS/taro/pull/11505</li>
     <li>naming-cheatsheet translation https://github.com/ModyQyW/naming-cheatsheet</li>
