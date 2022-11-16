@@ -387,7 +387,7 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
   <ul>
     <li>@modyqyw/fabric https://github.com/ModyQyW/fabric</li>
     <li>tailwind-extensions https://github.com/ModyQyW/tailwind-extensions</li>
-    <li>uni-helper https://github.com/ModyQyW/uni-helper</li>
+    <li>uni-helper https://github.com/uni-helper</li>
     <li>rollup & vite & vite-plugin-stylelint https://github.com/ModyQyW/vite-plugin-stylelint & vite-plugin-eslint https://github.com/ModyQyW/vite-plugin-eslint</li>
     <li>taro contributor https://github.com/NervJS/taro/pull/11505</li>
     <li>vite-plugin-checker contributor https://github.com/fi3ework/vite-plugin-checker/pull/158</li>
@@ -457,6 +457,8 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
 Please consider sponsor me if you think my jobs are valueable. ღ( ´･ᴗ･` )
 
 [paypal](https://paypal.me/wurui7?country.x=C2&locale.x=zh_XC)
+
+[爱发电 afadian](https://afdian.net/a/ModyQyW)
 
 <details>
   <summary>Alipay 支付宝</summary>
