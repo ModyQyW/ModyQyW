@@ -387,16 +387,16 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
   <ul>
     <li>@modyqyw/fabric https://github.com/ModyQyW/fabric</li>
     <li>tailwind-extensions https://github.com/ModyQyW/tailwind-extensions</li>
-    <li>uni-helper https://github.com/uni-helper</li>
     <li>rollup & vite & vite-plugin-stylelint https://github.com/ModyQyW/vite-plugin-stylelint & vite-plugin-eslint https://github.com/ModyQyW/vite-plugin-eslint</li>
-    <li>taro contributor https://github.com/NervJS/taro/pull/11505</li>
+    <li>uni-helper contributor https://github.com/uni-helper</li>
     <li>vite-plugin-checker contributor https://github.com/fi3ework/vite-plugin-checker/pull/158</li>
+    <li>taro contributor https://github.com/NervJS/taro/pull/11505</li>
     <li>naming-cheatsheet translation https://github.com/ModyQyW/naming-cheatsheet</li>
     <li>company azure devops</li>
+    <li>company presets https://github.com/MillCloud/presets</li>
     <li>company boilerplate-vue3 (deprecated) https://github.com/MillCloud/boilerplate-vue3</li>
     <li>company boilerplate-uni-app-vue3 (deprecated) https://github.com/MillCloud/boilerplate-uni-app-vue3</li>
     <li>company boilerplate-express (deprecated) https://github.com/MillCloud/boilerplate-express</li>
-    <li>company presets https://github.com/MillCloud/presets</li>
   </ul>
 </details>
 
