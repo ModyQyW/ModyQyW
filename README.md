@@ -24,7 +24,7 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
 | <a href="https://github.com/ModyQyW/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ModyQyW&show_icons=true&include_all_commits=true&hide_border=true" alt="ModyQyW's github stats" /></a> | <a href="https://github.com/ModyQyW/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModyQyW&layout=compact&hide_border=true" alt="ModyQyW's Top Langs" /></a> |
 | ------------- | ------------- |
 
-[Github Pages](https://modyqyw.github.io) | [Gitee Pages](https://modyqyw.gitee.io) 
+[My Github Pages](https://modyqyw.github.io)
 
 <details>
   <summary>Technologies of interest</summary>
@@ -60,16 +60,7 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     title="TailwindCSS"
   />
   <img
-    width="32"
-    height="32"
-    src="https://windicss.org/assets/logo.svg"
-    alt="WindiCSS"
-    title="WindiCSS"
-  />
-  <img
-    width="32"
-    height="32"
-    src="https://raw.githubusercontent.com/unocss/unocss/main/playground/public/icon-gray.svg"
+    src="https://api.iconify.design/logos/unocss.svg?width=32&height=32"
     alt="UnoCSS"
     title="UnoCss"
   />
@@ -87,23 +78,9 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
   <img
     width="32"
     height="32"
-    src="https://avatars.githubusercontent.com/u/33895495?s=200&v=4"
-    alt="Umi"
-    title="Umi"
-  />
-  <img
-    width="32"
-    height="32"
     src="https://taro-ui.jd.com/img/logo-taro.png"
     alt="Taro"
     title="Taro"
-  />
-  <img
-    width="32"
-    height="32"
-    src="https://img.alicdn.com/tfs/TB1H2Kcb1H2gK0jSZFEXXcqMpXa-70-72.png"
-    alt="Rax"
-    title="Rax"
   />
   <img
     src="https://api.iconify.design/logos/expo-icon.svg?width=32&height=32"
@@ -182,11 +159,9 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     title="Element Plus"
   />
   <img
-    width="32"
-    height="32"
-    src="https://aliyuncdn.antdv.com/v2/assets/logo.1ef800a8.svg"
-    alt="Ant Design Vue"
-    title="Ant Design Vue"
+    src="https://api.iconify.design/logos/naiveui.svg?width=32&height=32"
+    alt="Naive UI"
+    title="Naive UI"
   />
   <img
     width="32"
@@ -209,6 +184,11 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     title="Babel"
   />
   <img
+    src="https://api.iconify.design/logos/postcss.svg?width=32&height=32"
+    alt="Postcss"
+    title="Postcss"
+  />
+  <img
     src="https://api.iconify.design/logos/swc.svg?width=32&height=32"
     alt="SWC"
     title="SWC"
@@ -217,11 +197,6 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     src="https://api.iconify.design/logos/esbuild.svg?width=32&height=32"
     alt="esbuild"
     title="esbuild"
-  />
-  <img
-    src="https://api.iconify.design/logos/webpack.svg?width=32&height=32"
-    alt="Webpack"
-    title="Webpack"
   />
   <img
     src="https://api.iconify.design/logos/rollupjs.svg?width=32&height=32"
@@ -251,11 +226,6 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     alt="Ionic"
     title="Ionic"
   />
-  <img
-    src="https://api.iconify.design/logos/capacitorjs-icon.svg?width=32&height=32"
-    alt="Capacitor"
-    title="Capacitor"
-  />
   <br />
   <img
     src="https://api.iconify.design/logos/nodejs.svg?width=32&height=32"
@@ -271,11 +241,6 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     src="https://api.iconify.design/logos/pm2.svg?width=32&height=32"
     alt="PM2"
     title="PM2"
-  />
-  <img
-    src="https://api.iconify.design/logos/express.svg?width=32&height=32"
-    alt="Express"
-    title="Express"
   />
   <img
     src="https://api.iconify.design/logos/koa.svg?width=32&height=32"
@@ -318,21 +283,11 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     title="PostgreSQL"
   />
   <img
-    src="https://api.iconify.design/logos/mysql-icon.svg?width=32&height=32"
-    alt="MySQL"
-    title="MySQL"
-  />
-  <img
     src="https://api.iconify.design/logos/redis.svg?width=32&height=32"
     alt="Redis"
     title="Redis"
   />
   <br />
-  <img
-    src="https://api.iconify.design/logos/jest.svg?width=32&height=32"
-    alt="Jest"
-    title="Jest"
-  />
   <img
     width="32"
     height="32"
@@ -383,6 +338,19 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
 ### Roadmap
 
 <details>
+  <summary>2023</summary>
+  <ul>
+    <li>@modyqyw/fabric https://github.com/ModyQyW/fabric</li>
+    <li>@modyqyw/utils https://github.com/ModyQyW/utils</li>
+    <li>vite-plugin-stylelint https://github.com/ModyQyW/vite-plugin-stylelint</li>
+    <li>@modyqyw/vite-plugin-eslint https://github.com/ModyQyW/vite-plugin-eslint</li>
+    <li>tailwind-extensions https://github.com/ModyQyW/tailwind-extensions</li>
+    <li>uni-helper contributor https://github.com/uni-helper</li>
+    <li>company presets https://github.com/MillCloud/presets</li>
+  </ul>
+</details>
+
+<details>
   <summary>2022</summary>
   <ul>
     <li>@modyqyw/fabric https://github.com/ModyQyW/fabric</li>
@@ -391,6 +359,7 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     <li>uni-helper contributor https://github.com/uni-helper</li>
     <li>vite-plugin-checker contributor https://github.com/fi3ework/vite-plugin-checker/pull/158</li>
     <li>taro contributor https://github.com/NervJS/taro/pull/11505</li>
+    <li>sponsorkit contributor https://github.com/antfu/sponsorkit/pull/29</li>
     <li>naming-cheatsheet translation https://github.com/ModyQyW/naming-cheatsheet</li>
     <li>company azure devops</li>
     <li>company presets https://github.com/MillCloud/presets</li>
@@ -454,18 +423,4 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
 
 ### Donations
 
-Please consider sponsor me if you think my jobs are valueable. ღ( ´･ᴗ･` )
-
-[paypal](https://paypal.me/wurui7?country.x=C2&locale.x=zh_XC)
-
-[爱发电 afadian](https://afdian.net/a/ModyQyW)
-
-<details>
-  <summary>Alipay 支付宝</summary>
-  <img src="https://github.com/ModyQyW/modyqyw.github.io/blob/main/docs/about/alipay.jpeg" title="alipay" alt="alipay" style="width: 128px;" />
-</details>
-
-<details>
-  <summary>Wechat 微信</summary>
-  <img src="https://github.com/ModyQyW/modyqyw.github.io/blob/main/docs/about/wechat.png" title="wechat" alt="wechat" style="width: 128px;" />
-</details>
+Please consider [sponsor](https://github.com/ModyQyW/sponsors) me if you think my jobs are valueable. ღ( ´･ᴗ･` )
