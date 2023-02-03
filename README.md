@@ -343,9 +343,11 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     <li>@modyqyw/fabric https://github.com/ModyQyW/fabric</li>
     <li>@modyqyw/utils https://github.com/ModyQyW/utils</li>
     <li>vite-plugin-stylelint https://github.com/ModyQyW/vite-plugin-stylelint</li>
-    <li>@modyqyw/vite-plugin-eslint https://github.com/ModyQyW/vite-plugin-eslint</li>
+    <li>vite-plugin-eslint2 (previous @modyqyw/vite-plugin-eslint) https://github.com/ModyQyW/vite-plugin-eslint2</li>
     <li>tailwind-extensions https://github.com/ModyQyW/tailwind-extensions</li>
     <li>uni-helper contributor https://github.com/uni-helper</li>
+    <li>vite contributor https://github.com/vitejs/vite/pull/11899</li>
+    <li>vite-plugin-compression2 contributor https://github.com/nonzzz/vite-compression-plugin/pull/14 https://github.com/nonzzz/vite-compression-plugin/pull/16</li>
     <li>company presets https://github.com/MillCloud/presets</li>
   </ul>
 </details>
