@@ -26,6 +26,8 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
 
 [My Github Pages](https://modyqyw.github.io)
 
+[My Resume](https://modyqyw.github.io/resume)
+
 <details>
   <summary>Technologies of interest</summary>
   <img
@@ -348,6 +350,7 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     <li>uni-helper contributor https://github.com/uni-helper</li>
     <li>vite contributor https://github.com/vitejs/vite/pull/11899</li>
     <li>vite-plugin-compression2 contributor https://github.com/nonzzz/vite-compression-plugin/pull/14 https://github.com/nonzzz/vite-compression-plugin/pull/16</li>
+    <li>vueuse contributor https://github.com/vueuse/vueuse/pull/2773</li>
     <li>company presets https://github.com/MillCloud/presets</li>
   </ul>
 </details>
