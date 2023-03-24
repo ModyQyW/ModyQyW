@@ -42,21 +42,6 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
   />
   <br />
   <img
-    src="https://api.iconify.design/mdi/material-design.svg?width=32&height=32"
-    alt="Material Design"
-    title="Material Design"
-  />
-  <img
-    src="https://api.iconify.design/logos/apple.svg?width=32&height=32"
-    alt="Apple Design"
-    title="Apple Design"
-  />
-  <img
-    src="https://api.iconify.design/logos/ant-design.svg?width=32&height=32"
-    alt="Ant Design"
-    title="Ant Design"
-  />
-  <img
     src="https://api.iconify.design/logos/tailwindcss-icon.svg?width=32&height=32"
     alt="TailwindCSS"
     title="TailwindCSS"
@@ -102,13 +87,6 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
   <img
     width="32"
     height="32"
-    src="https://chakra-ui.com/favicon.png"
-    alt="Chakra UI"
-    title="Chakra UI"
-  />
-  <img
-    width="32"
-    height="32"
     src="https://gw.alipayobjects.com/zos/bmw-prod/b874caa9-4458-412a-9ac6-a61486180a62.svg"
     alt="Ant Design Mobile"
     title="Ant Design Mobile"
@@ -146,11 +124,6 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     title="UniApp"
   />
   <img
-    src="https://api.iconify.design/vscode-icons/file-type-quasar.svg?width=32&height=32"
-    alt="Quasar"
-    title="Quasar"
-  />
-  <img
     src="https://api.iconify.design/logos/vuetifyjs.svg?width=32&height=32"
     alt="Vuetify"
     title="Vuetify"
@@ -181,26 +154,6 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
   />
   <br />
   <img
-    src="https://api.iconify.design/logos/babel.svg?width=32&height=32"
-    alt="Babel"
-    title="Babel"
-  />
-  <img
-    src="https://api.iconify.design/logos/postcss.svg?width=32&height=32"
-    alt="Postcss"
-    title="Postcss"
-  />
-  <img
-    src="https://api.iconify.design/logos/swc.svg?width=32&height=32"
-    alt="SWC"
-    title="SWC"
-  />
-  <img
-    src="https://api.iconify.design/logos/esbuild.svg?width=32&height=32"
-    alt="esbuild"
-    title="esbuild"
-  />
-  <img
     src="https://api.iconify.design/logos/rollupjs.svg?width=32&height=32"
     alt="Rollup"
     title="Rollup"
@@ -209,6 +162,13 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     src="https://api.iconify.design/logos/vitejs.svg?width=32&height=32"
     alt="Vite"
     title="Vite"
+  />
+  <img
+    src="https://www.rspack.dev/static/image/logo.3e9ad8f8.png"
+    alt="Rspack"
+    title="Rspack"
+    width="32"
+    height="32"
   />
   <br />
   <img
@@ -250,11 +210,6 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     title="Koa"
   />
   <img
-    src="https://api.iconify.design/logos/fastify-icon.svg?width=32&height=32"
-    alt="Fastify"
-    title="Fastify"
-  />
-  <img
     src="https://api.iconify.design/logos/nestjs.svg?width=32&height=32"
     alt="Nest"
     title="Nest"
@@ -265,13 +220,6 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     src="https://cellbang-lib.oss-cn-hangzhou.aliyuncs.com/Malagu%20Logo%20Green.svg"
     alt="Malagu"
     title="Malagu"
-  />
-  <img
-    width="32"
-    height="32"
-    src="https://gw.alicdn.com/tfs/TB1eGsrk79l0K4jSZFKXXXFjpXa-347-340.png"
-    alt="Midway"
-    title="Midway"
   />
   <br />
   <img
@@ -288,6 +236,13 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     src="https://api.iconify.design/logos/redis.svg?width=32&height=32"
     alt="Redis"
     title="Redis"
+  />
+  <img
+    src="https://avatars.githubusercontent.com/u/104819355?s=200&v=4"
+    alt="Dragonfly"
+    title="Dragonfly"
+    width="32"
+    height="32"
   />
   <br />
   <img
