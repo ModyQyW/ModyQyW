@@ -184,9 +184,9 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     title="Tauri"
   />
   <img
-    src="https://api.iconify.design/logos/ionic-icon.svg?width=32&height=32"
-    alt="Ionic"
-    title="Ionic"
+    src="https://api.iconify.design/logos/capacitorjs-icon.svg?width=32&height=32"
+    alt="Capacitor"
+    title="Capacitor"
   />
   <br />
   <img
@@ -231,11 +231,6 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     src="https://api.iconify.design/logos/postgresql.svg?width=32&height=32"
     alt="PostgreSQL"
     title="PostgreSQL"
-  />
-  <img
-    src="https://api.iconify.design/logos/redis.svg?width=32&height=32"
-    alt="Redis"
-    title="Redis"
   />
   <img
     src="https://avatars.githubusercontent.com/u/104819355?s=200&v=4"
