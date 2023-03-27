@@ -129,6 +129,13 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     title="Vuetify"
   />
   <img
+    src="https://varlet.gitee.io/varlet-ui/logo.svg"
+    alt="Varlet"
+    title="Varlet"
+    width="32"
+    height="32"
+  />
+  <img
     src="https://api.iconify.design/ep/element-plus.svg?color=%23409eff&width=32&height=32"
     alt="Element Plus"
     title="Element Plus"
