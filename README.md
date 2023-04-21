@@ -24,7 +24,7 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
 | <a href="https://github.com/ModyQyW/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ModyQyW&show_icons=true&include_all_commits=true&hide_border=true" alt="ModyQyW's github stats" /></a> | <a href="https://github.com/ModyQyW/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModyQyW&layout=compact&hide_border=true" alt="ModyQyW's Top Langs" /></a> |
 | ------------- | ------------- |
 
-[My Github Pages](https://modyqyw.github.io)
+[My Site](https://modyqyw.github.io)
 
 [My Resume](https://modyqyw.github.io/resume)
 
