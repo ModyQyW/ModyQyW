@@ -170,13 +170,6 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     alt="Vite"
     title="Vite"
   />
-  <img
-    src="https://www.rspack.dev/static/image/logo.3e9ad8f8.png"
-    alt="Rspack"
-    title="Rspack"
-    width="32"
-    height="32"
-  />
   <br />
   <img
     src="https://api.iconify.design/logos/electron.svg?width=32&height=32"
@@ -220,13 +213,6 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     src="https://api.iconify.design/logos/nestjs.svg?width=32&height=32"
     alt="Nest"
     title="Nest"
-  />
-  <img
-    width="32"
-    height="32"
-    src="https://cellbang-lib.oss-cn-hangzhou.aliyuncs.com/Malagu%20Logo%20Green.svg"
-    alt="Malagu"
-    title="Malagu"
   />
   <br />
   <img
