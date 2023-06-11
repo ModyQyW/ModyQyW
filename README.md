@@ -290,11 +290,13 @@ Don't like old browsers, miniapps / miniprograms, non-standard things.
     <li>vite-plugin-stylelint https://github.com/ModyQyW/vite-plugin-stylelint</li>
     <li>vite-plugin-eslint2 (previous @modyqyw/vite-plugin-eslint) https://github.com/ModyQyW/vite-plugin-eslint2</li>
     <li>tailwind-extensions https://github.com/ModyQyW/tailwind-extensions</li>
+    <li>unocss-preset-element-plus https://github.com/ModyQyW/unocss-preset-element-plus</li>
+    <li>unocss-preset-antd contributor https://github.com/Dunqing/unocss-preset-antd</li>
     <li>uni-helper contributor https://github.com/uni-helper</li>
     <li>vite contributor https://github.com/vitejs/vite/pull/11899</li>
     <li>vite-plugin-compression2 contributor https://github.com/nonzzz/vite-compression-plugin/pull/14 https://github.com/nonzzz/vite-compression-plugin/pull/16</li>
     <li>vueuse contributor https://github.com/vueuse/vueuse/pull/2773</li>
-    <li>element-plus contributor https://github.com/element-plus/element-plus/pull/12514</li>
+    <li>element-plus contributor https://github.com/element-plus/element-plus/pull/12514 https://github.com/element-plus/element-plus/pull/12549</li>
     <li>company presets https://github.com/MillCloud/presets</li>
   </ul>
 </details>
