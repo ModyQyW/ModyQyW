@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 <strong> Hi there. I'm ModyQyW. 👋🏻 </strong>
 
-I'm a front-end developer using Vue and React (mostly Vue 😝). I'm also a TypeScript full-stack developer (mostly CRUD 🤣). I keep learning to make myself better. You can check out [my GitHub profile](https://github.com/ModyQyW), [my website](https://modyqyw.github.io), or [my resume](https://modyqyw.github.io/resume) to learn more about me.
+I'm a front-end developer using Vue and React (mostly Vue 😝). I'm also a TypeScript full-stack developer (mostly CRUD 🤣). I keep learning to make myself better. You can check out [my GitHub profile](https://github.com/ModyQyW), [my website](https://modyqyw.top), or [my resume](https://resume.modyqyw.top) to learn more about me.
 
-Please consider [sponsor](https://github.com/ModyQyW/sponsors) me if you think my work are valuable. 🤩
+Please consider [sponsor](https://github.com/ModyQyW/sponsors) me if you think my work is valuable. 🤩
 
-Please consider hire me for your project and pay me by the hour if you find some of my work experience may do a great help. 🥹
+Please consider hiring me for your project and pay me by the hour if you find some of my work experience may be a great help. 🥹
 
 | <a href="https://github.com/ModyQyW/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ModyQyW&show_icons=true&include_all_commits=true&hide_border=true" alt="ModyQyW's github stats" /></a> | <a href="https://github.com/ModyQyW/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModyQyW&layout=compact&hide_border=true" alt="ModyQyW's Top Langs" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
