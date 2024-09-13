@@ -19,7 +19,7 @@ I'm ModyQyW, an open source enthusiast, a front-end development engineer, and a 
 
 If you think my open source work is valuable, please consider sponsoring me, it would be a valuable income for me and beneficial to my ongoing maintenance of the project. 👉 Check [my sponsors](https://github.com/ModyQyW/sponsors).
 
-Please consider hiring me if you think my work experience would be helpful to your company or project. I am looking for a job with work-life balance. 👉 Check [my resume].
+Please consider hiring me if you think my work experience would be helpful to your company or project. I am looking for a job with work-life balance. 👉 Check [my resume](https://resume.modyqyw.top).
 
 | <a href="https://github.com/ModyQyW/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ModyQyW&show_icons=true&include_all_commits=true&hide_border=true" alt="ModyQyW's github stats" /></a> | <a href="https://github.com/ModyQyW/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModyQyW&layout=compact&hide_border=true" alt="ModyQyW's Top Langs" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
